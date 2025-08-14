@@ -1,2 +1,4 @@
-# momento_evaluativo
-primera evaluación de nuevas tecnologías
+# Momento Evaluativo
+Integrantes:
+    - Sebastian Gutierrez: Sebas-stack
+    - Angel Tamayo: angeltamayoz
